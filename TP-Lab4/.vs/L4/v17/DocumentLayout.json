@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|c:\\users\\danila\\desktop\\tp-labs\\l4\\l4\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|solutionrelative:l4\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|c:\\users\\danila\\desktop\\tp-labs\\l4\\l4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|solutionrelative:l4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|c:\\users\\danila\\desktop\\tp-labs\\l4\\l4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|solutionrelative:l4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|c:\\users\\danila\\desktop\\tp-labs\\l4\\l4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|solutionrelative:l4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|c:\\users\\danila\\desktop\\tp-labs\\l4\\l4\\fasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|solutionrelative:l4\\fasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|c:\\users\\danila\\desktop\\tp-labs\\l4\\l4\\playerprofilecacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|solutionrelative:l4\\playerprofilecacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|c:\\users\\danila\\desktop\\tp-labs\\l4\\l4\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5153C54C-8C7C-4874-BE1F-88901E8ABEF5}|L4\\L4.csproj|solutionrelative:l4\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Player.cs",
+              "RelativeDocumentMoniker": "L4\\Player.cs",
+              "ToolTip": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Player.cs",
+              "RelativeToolTip": "L4\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:57:56.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerProfileCacheRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\PlayerProfileCacheRepository.cs",
+              "RelativeDocumentMoniker": "L4\\PlayerProfileCacheRepository.cs",
+              "ToolTip": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\PlayerProfileCacheRepository.cs",
+              "RelativeToolTip": "L4\\PlayerProfileCacheRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:57:28.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fasad.cs",
+              "DocumentMoniker": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Fasad.cs",
+              "RelativeDocumentMoniker": "L4\\Fasad.cs",
+              "ToolTip": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Fasad.cs",
+              "RelativeToolTip": "L4\\Fasad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:57:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Adapter.cs",
+              "RelativeDocumentMoniker": "L4\\Adapter.cs",
+              "ToolTip": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Adapter.cs",
+              "RelativeToolTip": "L4\\Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:56:39.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Decorator.cs",
+              "RelativeDocumentMoniker": "L4\\Decorator.cs",
+              "ToolTip": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Decorator.cs",
+              "RelativeToolTip": "L4\\Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:56:11.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Enemy.cs",
+              "RelativeDocumentMoniker": "L4\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Enemy.cs",
+              "RelativeToolTip": "L4\\Enemy.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:55:46.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Program.cs",
+              "RelativeDocumentMoniker": "L4\\Program.cs",
+              "ToolTip": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\Program.cs",
+              "RelativeToolTip": "L4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:55:09.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

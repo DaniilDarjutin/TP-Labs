@@ -1,0 +1,14 @@
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\bin\Debug\net8.0\L4.exe
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\bin\Debug\net8.0\L4.deps.json
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\bin\Debug\net8.0\L4.runtimeconfig.json
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\bin\Debug\net8.0\L4.dll
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\bin\Debug\net8.0\L4.pdb
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\L4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\L4.AssemblyInfoInputs.cache
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\L4.AssemblyInfo.cs
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\L4.csproj.CoreCompileInputs.cache
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\L4.dll
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\refint\L4.dll
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\L4.pdb
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\L4.genruntimeconfig.cache
+C:\Users\Danila\Desktop\TP-Labs\L4\L4\obj\Debug\net8.0\ref\L4.dll
