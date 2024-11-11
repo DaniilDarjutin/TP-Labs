@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\L4.csproj",
+      "projectUniqueName": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Lab4\\L4\\L4.csproj",
       "projectName": "L4",
-      "projectPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\L4.csproj",
+      "projectPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Lab4\\L4\\L4.csproj",
       "packagesPath": "C:\\Users\\Danila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\L4\\L4\\obj\\",
+      "outputPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Lab4\\L4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danila\\AppData\\Roaming\\NuGet\\NuGet.Config",
