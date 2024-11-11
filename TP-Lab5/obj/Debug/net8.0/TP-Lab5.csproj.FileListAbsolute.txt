@@ -1,0 +1,15 @@
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\bin\Debug\net8.0\TP-Lab5.exe
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\bin\Debug\net8.0\TP-Lab5.deps.json
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\bin\Debug\net8.0\TP-Lab5.runtimeconfig.json
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\bin\Debug\net8.0\TP-Lab5.dll
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\bin\Debug\net8.0\TP-Lab5.pdb
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\TP-Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\TP-Lab5.AssemblyInfoInputs.cache
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\TP-Lab5.AssemblyInfo.cs
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\TP-Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\TP-Lab5.sourcelink.json
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\TP-Lab5.dll
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\refint\TP-Lab5.dll
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\TP-Lab5.pdb
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\TP-Lab5.genruntimeconfig.cache
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab5\obj\Debug\net8.0\ref\TP-Lab5.dll

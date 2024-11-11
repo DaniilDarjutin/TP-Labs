@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Labs\\TP-Lab3\\TP-Lab3\\TP-Lab3.csproj",
+      "projectUniqueName": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Lab3\\TP-Lab3\\TP-Lab3.csproj",
       "projectName": "TP-Lab3",
-      "projectPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Labs\\TP-Lab3\\TP-Lab3\\TP-Lab3.csproj",
+      "projectPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Lab3\\TP-Lab3\\TP-Lab3.csproj",
       "packagesPath": "C:\\Users\\Danila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Labs\\TP-Lab3\\TP-Lab3\\obj\\",
+      "outputPath": "C:\\Users\\Danila\\Desktop\\TP-Labs\\TP-Lab3\\TP-Lab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danila\\AppData\\Roaming\\NuGet\\NuGet.Config",

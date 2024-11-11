@@ -26,3 +26,4 @@ C:\Users\Danila\Desktop\TP-Labs\TP-Labs\TP-Lab3\TP-Lab3\obj\Debug\net8.0\refint\
 C:\Users\Danila\Desktop\TP-Labs\TP-Labs\TP-Lab3\TP-Lab3\obj\Debug\net8.0\TP-Lab3.pdb
 C:\Users\Danila\Desktop\TP-Labs\TP-Labs\TP-Lab3\TP-Lab3\obj\Debug\net8.0\TP-Lab3.genruntimeconfig.cache
 C:\Users\Danila\Desktop\TP-Labs\TP-Labs\TP-Lab3\TP-Lab3\obj\Debug\net8.0\ref\TP-Lab3.dll
+C:\Users\Danila\Desktop\TP-Labs\TP-Lab3\TP-Lab3\obj\Debug\net8.0\TP-Lab3.sourcelink.json
