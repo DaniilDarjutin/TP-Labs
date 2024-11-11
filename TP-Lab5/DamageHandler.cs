@@ -20,7 +20,7 @@ public class BaseDamageHandler : DamageHandler
             }
             else
             {
-                _next?.Handle(damage);
+                _next.Handle(damage);
             }
         }
     }
