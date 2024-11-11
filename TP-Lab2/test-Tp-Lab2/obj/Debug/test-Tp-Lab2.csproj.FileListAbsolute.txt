@@ -1,0 +1,7 @@
+C:\Users\Danila\Desktop\Lab-02\test-Tp-Lab2\test-Tp-Lab2\bin\Debug\test-Tp-Lab2.exe.config
+C:\Users\Danila\Desktop\Lab-02\test-Tp-Lab2\test-Tp-Lab2\bin\Debug\test-Tp-Lab2.exe
+C:\Users\Danila\Desktop\Lab-02\test-Tp-Lab2\test-Tp-Lab2\bin\Debug\test-Tp-Lab2.pdb
+C:\Users\Danila\Desktop\Lab-02\test-Tp-Lab2\test-Tp-Lab2\obj\Debug\test-Tp-Lab2.csproj.AssemblyReference.cache
+C:\Users\Danila\Desktop\Lab-02\test-Tp-Lab2\test-Tp-Lab2\obj\Debug\test-Tp-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Danila\Desktop\Lab-02\test-Tp-Lab2\test-Tp-Lab2\obj\Debug\test-Tp-Lab2.exe
+C:\Users\Danila\Desktop\Lab-02\test-Tp-Lab2\test-Tp-Lab2\obj\Debug\test-Tp-Lab2.pdb
