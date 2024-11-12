@@ -16,7 +16,7 @@ public class BaseDamageHandler : DamageHandler
         {
             if (damage <= 10)
             {
-                Console.WriteLine("Base handler processes damage.");
+                Console.WriteLine("Базовый урон");
             }
             else
             {
@@ -29,6 +29,6 @@ public class CriticalDamageHandler : DamageHandler
     {
         public override void Handle(int damage)
         {
-            Console.WriteLine("Critical damage handler processes damage!");
+            Console.WriteLine("Критический урон");
         }
     }
